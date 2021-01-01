@@ -1,4 +1,6 @@
-os: Visual Studio 2015
+images:
+  - Visual Studio 2015
+  - Ubuntu
 
 version: "{build}"
 
